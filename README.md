@@ -14,7 +14,6 @@
 <h2 align="center">Languages</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
@@ -29,6 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" />
+  <img src="https://svgl.app/library/expressjs_dark.svg" width="50" height="50" />
+  <img src="https://svgl.app/library/nextjs_logo_dark.svg" width="50" height="50" />
+  <img src="https://svgl.app/library/jest.svg" width="50" height="50" />
+  <img src="https://svgl.app/library/zod.svg" width="50" height="50" />
+  <img src="https://svgl.app/library/nestjs.svg" width="50" height="50" />
+  <img src="https://svgl.app/library/tailwindcss.svg" width="50" height="50" />
+  <img src="https://svgl.app/library/mongodb-wordmark.svg" width="50" height="50" />
+  <img src="https://svgl.app/library/postgresql.svg" width="50" height="50" />
 </div>
