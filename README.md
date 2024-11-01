@@ -37,3 +37,11 @@
   <img src="https://svgl.app/library/mongodb-wordmark.svg" width="50" height="50" />
   <img src="https://svgl.app/library/postgresql.svg" width="50" height="50" />
 </div>
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=javierh-castro&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=javierh-castro&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=javierh-castro&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
