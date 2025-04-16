@@ -7,6 +7,7 @@
 
 <h2 align="center">About Me:</h2>
 <br>
+
 * 📫 How to contact me: javi2cc1@gmail.com 
 * 🧠  I'm a fast learner
 * 🧩  Problem Solver (I love them)
