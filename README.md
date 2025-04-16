@@ -6,6 +6,10 @@
 </p>
 
 <h2 align="center">About Me:</h2>
+<div aling="center">
+  I’m a software  developer passionate about creating innovative web solutions. I am fluent in Spanish, English.
+</div>
+
 <br>
 
 * 📫 How to contact me: javi2cc1@gmail.com 
