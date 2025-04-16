@@ -48,3 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierh-castro&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
 
+# Let's Connect!:
+
+[![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/javierhcc)
