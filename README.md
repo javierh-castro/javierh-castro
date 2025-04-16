@@ -5,7 +5,7 @@
 
 </p>
 
-<h2 align="center">About Me:</h2>
+<h2 align="center">About Me</h2>
 <div aling="center">
   I’m a software  developer passionate about creating innovative web solutions. I am fluent in Spanish, English.
 </div>
@@ -43,8 +43,6 @@
   <img src="https://svgl.app/library/postgresql.svg" width="50" height="50" />
 </div>
 
-<h2 align="center">GitHub Stats</h2>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=javierh-castro&theme=aura&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <br/>
@@ -54,5 +52,6 @@
 </div>
 
 # Let's Connect!:
-
+<p>
 [![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/javierhcc)
+</p>
